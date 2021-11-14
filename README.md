@@ -1,5 +1,10 @@
 # controlecurso_ad1-fadam
-Esse aplicativo foi desenvolvido para servir de avaliação 1 na disciplina de programação de computadores
+Esse aplicativo foi desenvolvido para servir de avaliação 1 na disciplina de programação de computadores na faculdade FADAM.
+
+## Membros da Equipe
+- Camilla Oliveira
+- Edilgleidson Silva
+- Jayron Castro
 
 ## Cenário e Menu de Ações
 Faça um programa que realiza o gerenciamento dos alunos da disciplina de Programação de computadores. O programa deve possui o menu abaixo:
